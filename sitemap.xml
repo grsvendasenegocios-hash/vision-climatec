@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Adicione uma <url> por página nova (ex: /instalacao-ar-condicionado-[cidade]) SOMENTE
+     quando a página existir de verdade e tiver conteúdo próprio. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://visionclimatec.com.br/</loc>
+    <lastmod>2026-11-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+</urlset>
